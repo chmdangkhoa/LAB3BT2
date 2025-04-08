@@ -1,0 +1,7 @@
+﻿  DaGiac.cpp
+D:\codeUIT\ThucHanhUIT\IT002\BTTH3\BT02\DaGiac.cpp(22,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\codeUIT\ThucHanhUIT\IT002\BTTH3\BT02\DaGiac.cpp(24,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\codeUIT\ThucHanhUIT\IT002\BTTH3\BT02\DaGiac.cpp(36,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  BT02.vcxproj -> D:\codeUIT\ThucHanhUIT\IT002\BTTH3\BT02\x64\Debug\BT02.exe
