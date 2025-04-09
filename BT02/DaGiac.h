@@ -7,6 +7,7 @@ private:
 	int n;
 	Diem D[10];
 public:
+	DaGiac() : Diem() {}
 	void Nhap();
 	void Xuat() const;
 	float ChuVi();
